@@ -1,0 +1,65 @@
+{
+  "obsidian-pandoc:pandoc-export-docx": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad8"
+    }
+  ],
+  "highlightr-plugin:Orange": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "highlightr-plugin:Blue": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
+  ],
+  "window:zoom-in": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "window:reset-zoom": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ],
+  "periodic-notes:open-monthly-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "periodic-notes:open-yearly-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Y"
+    }
+  ]
+}

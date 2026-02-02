@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "0887c7116ef250e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6ba110b10d49ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6dc95d1cb44d01f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/쇼펜하우어 아포리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5526bf0c2d0d88e",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab8e12f06ad42fa5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "440a30911ba026b1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "321cbef8166e772d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "6b09926907c1c553",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "4398a4a649404fba",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "eb4a2fe704607e41",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "356e0b754d02850b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Untitled Kanban.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4e19b81d9d82b271",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "7b091624499786ff",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled Kanban.md"
+          }
+        }
+      },
+      {
+        "id": "c6833d9ece8258bc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Untitled Kanban.md",
+            "linksCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "publish:변경사항 출판": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "440a30911ba026b1",
+  "lastOpenFiles": [
+    "Book/쇼펜하우어 아포리즘.md",
+    "Untitled Kanban.md",
+    "To Do List/필요한 것/살 것.md",
+    "무제 파일.md",
+    "Book/Untitled.md",
+    "Book/작별의 건너편.md",
+    "To Do List/1. Daily To Do List/9, 10월/23.10.30.md",
+    "To Do List/1. Daily To Do List/9, 10월/23.9.27.md",
+    "To Do List/1. Daily To Do List/9, 10월/23.10.14.md",
+    "To Do List/1. Daily To Do List/9, 10월/23.10.29.md",
+    "To Do List/1. Daily To Do List/9, 10월",
+    "Template/To do list 틀.md",
+    "College/임상취업동아리/임상 약어/임상약어 정리.md",
+    "To Do List/1. Daily To Do List/9, 10월/23.10.28.md",
+    "College/임상취업동아리/임상 약어/문제 folder/임상약어 1- 답.md",
+    "College/임상취업동아리/임상 약어/문제 folder/임상약어 1- 문제.md",
+    "College/임상취업동아리/의학용어/일반적 전신용어.md",
+    "To Do List/1. Daily To Do List/9, 10월/23.10.26.md",
+    "College/통계학 기초/P5 확률분포/P5 확률분포.canvas",
+    "College/통계학 기초/P4 확률/P4 확률.canvas",
+    "College/통계학 기초/P4 확률/P4 확률.md",
+    "옵시디언 사용방법/방법 1).md",
+    "예리미/사귀자.md",
+    "예리미",
+    "To Do List/1. Daily To Do List/9, 10월/23.10.25.md",
+    "To Do List/필요한 것",
+    "College/EMR/EMR 시험.md",
+    "Book/쇼펜하우어 아포리즘",
+    "College/EMR/문법 잘못된 의무기록.md",
+    "College/CRO 트랙/시험정리.md",
+    "College/CRO 트랙/문제.md",
+    "College/CRO 트랙/시험정리 2.md",
+    "College/통계학 기초/P3 기술통계/P3 기술통계.canvas",
+    "Pasted image 20231012004138.png",
+    "Pasted image 20231012004008.png",
+    "Pasted image 20231012004000.png",
+    "Pasted image 20231012003929.png",
+    "Pasted image 20231012003831.png",
+    "Pasted image 20231012003716.png",
+    "Pasted image 20231012003755.png",
+    "Pasted image 20231012003612.png",
+    "Pasted image 20231012003430.png",
+    "Pasted image 20231012003527.png",
+    "College/EMR",
+    "College/통계학 기초/P6 표본분포와 중심극한정리/무제 파일.canvas",
+    "file/의학용어 정리 - 문제.pdf",
+    "file/mfiBBD3.tmp",
+    "file/mfiF88F.tmp",
+    "file/의학용어 정리 - 문제.xlsx",
+    "file/임상약어 정리.pdf",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}

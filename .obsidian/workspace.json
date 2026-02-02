@@ -1,19 +1,29 @@
 {
   "main": {
-    "id": "1520a29d3a65cde9",
+    "id": "2dbdb09b21ba9b86",
     "type": "split",
     "children": [
       {
-        "id": "25b0702142ff9236",
+        "id": "ab1eef3ba95ae7d8",
         "type": "tabs",
         "children": [
           {
-            "id": "bc20518be0be0dbe",
+            "id": "ca9871012904a2f7",
+            "type": "leaf",
+            "state": {
+              "type": "planner-release-notes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Day Planner Release 0.28.0"
+            }
+          },
+          {
+            "id": "73c9e951329ba291",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-record/2026-02-02.md",
+                "file": "1. 🎊자주 쓰는 폴더🎊/00. Daily/2026-02-02.md",
                 "mode": "source",
                 "source": false
               },
@@ -21,21 +31,22 @@
               "title": "2026-02-02"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fd54a61d32cfd70e",
+    "id": "94822bec94d52777",
     "type": "split",
     "children": [
       {
-        "id": "eec23c9b2b790f99",
+        "id": "5cceeb40659e26df",
         "type": "tabs",
         "children": [
           {
-            "id": "ca10222bb177e06e",
+            "id": "146fb9dd12d94e28",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +59,7 @@
             }
           },
           {
-            "id": "b0b6cd96ad587c14",
+            "id": "8a548e474c5bbad5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,36 +76,46 @@
             }
           },
           {
-            "id": "74c109db06066a34",
+            "id": "63d85c5efa289c53",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "북마크"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 290.5
   },
   "right": {
-    "id": "2524671b78687467",
+    "id": "05955cd8ec12c75e",
     "type": "split",
     "children": [
       {
-        "id": "986786affd0cf4d9",
+        "id": "0c79304dc21a8d12",
         "type": "tabs",
         "children": [
           {
-            "id": "c8dba6499cd5573d",
+            "id": "8aadf91b34b16706",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "32b6d55d2af2b0d2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-record/2026-02-02.md",
+                "file": "To Do List/1. Daily To Do List/2025년/2월/25.2.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +125,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-02-02 의 백링크"
+              "title": "25.2.10 의 백링크"
             }
           },
           {
-            "id": "d7c783f88f98fa8c",
+            "id": "5f43a46d8ee719e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-record/2026-02-02.md",
+                "file": "To Do List/1. Daily To Do List/2025년/2월/25.2.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-02-02 의 나가는 링크"
+              "title": "25.2.10 의 나가는 링크"
             }
           },
           {
-            "id": "74e385f047c7b41f",
+            "id": "786ee2da488e267a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,26 +158,12 @@
             }
           },
           {
-            "id": "b96af1ff769f4078",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "모든 속성"
-            }
-          },
-          {
-            "id": "fc00e1a4898baab9",
+            "id": "56b24c66e0f9f89e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-record/2026-02-02.md",
+                "file": "1. 🎊자주 쓰는 폴더🎊/00. Daily/2026-02-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -164,29 +171,90 @@
               "icon": "lucide-list",
               "title": "2026-02-02 의 개요"
             }
+          },
+          {
+            "id": "f5cb14c5f358c026",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "publish:변경사항 게재": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "bc20518be0be0dbe",
+  "active": "73c9e951329ba291",
   "lastOpenFiles": [
-    "README.md",
-    "Daily-record/2026-02-02.md",
-    "templete.md"
+    "3. 💯자기계발/정보처리기사/2과목 - 소프트웨어 개발.md",
+    "1. 🎊자주 쓰는 폴더🎊/00. Daily/2026-02-02.md",
+    "3. 💯자기계발/정보처리기사/1과목 - 소프트웨어 설계.md",
+    "3. 💯자기계발/정보처리기사/1. 목차정리.md",
+    "3. 💯자기계발/정보처리기사/4 과목 - 프로그래밍언어활용.md",
+    "3. 💯자기계발/정보처리기사/5 과목 - 정보시스템 구축관리.md",
+    "3. 💯자기계발/정보처리기사/3과목 - 데이터베이스.md",
+    "1. 🎊자주 쓰는 폴더🎊/1.4 라벨링/Instruction.md",
+    "3. 💯자기계발/정보처리기사",
+    "1. 🎊자주 쓰는 폴더🎊/00. Daily/무제.md",
+    "무제.md",
+    "3. 💯자기계발/토익 스피킹/15T003_Q3-4_기초다지기.md",
+    "1. 🎊자주 쓰는 폴더🎊/1.2 😗AI 관련/인스타 릴스/무제.md",
+    "1. 🎊자주 쓰는 폴더🎊/1.2 😗AI 관련/인스타 릴스",
+    "3. 💯자기계발/토익 스피킹/15T001_Q1-2_기초다지기.md",
+    "3. 💯자기계발/토익 스피킹/15T001_Q1-2_기초다지기 copy.md",
+    "1. 🎊자주 쓰는 폴더🎊/01. 🌈 ​To Do List/1. Daily To Do List/2025년/25.12.23.md",
+    "1. 🎊자주 쓰는 폴더🎊/01. 🌈 ​To Do List/2. Weekly To Do list/25년 52주차.md",
+    "1. 🎊자주 쓰는 폴더🎊/01. 🌈 ​To Do List/1. Daily To Do List/2025년/25.12.26.md",
+    "1. 🎊자주 쓰는 폴더🎊/01. 🌈 ​To Do List/2. Weekly To Do list/25년 51주차.md",
+    "1. 🎊자주 쓰는 폴더🎊/01. 🌈 ​To Do List/1. Daily To Do List/2025년/25.12.19.md",
+    "1. 🎊자주 쓰는 폴더🎊/01. 🌈 ​To Do List/1. Daily To Do List/2025년/25.12.20.md",
+    "3. 💯자기계발/토익 스피킹",
+    "1. 🎊자주 쓰는 폴더🎊/00. Daily/25-12-20/연수자소서_검토.zip",
+    "3. 💯자기계발/무제.md",
+    "3. 💯자기계발/~일기~.md",
+    "1. 🎊자주 쓰는 폴더🎊/00. Daily/25-12-20/연수자소서_검토/이거부터 읽으셈!!!.md",
+    "1. 🎊자주 쓰는 폴더🎊/00. Daily/25-12-20/연수자소서_검토/worked/2. 자기소개서_조연수.md",
+    "1. 🎊자주 쓰는 폴더🎊/00. Daily/25-12-20/연수자소서_검토/3. request/[요청]자소서_포트폴리오_업그레이드_질문지.md",
+    "1. 🎊자주 쓰는 폴더🎊/00. Daily/25-12-20/연수자소서_검토/3. request/[요청]지원동기_강화를_위한_추가_Fact.md",
+    "1. 🎊자주 쓰는 폴더🎊/00. Daily/25-12-20/연수자소서_검토/3. request",
+    "1. 🎊자주 쓰는 폴더🎊/00. Daily/25-12-20/연수자소서_검토/2. worked",
+    "1. 🎊자주 쓰는 폴더🎊/00. Daily/25-12-20/연수자소서_검토/99. source/[기본]조연수 이력서&자기소개서.docx",
+    "1. 🎊자주 쓰는 폴더🎊/00. Daily/25-12-20/연수자소서_검토/99. source/[기본]조연수 이력서&자기소개서.pdf",
+    "1. 🎊자주 쓰는 폴더🎊/00. Daily/25-12-20/연수자소서_검토/99. source",
+    "1. 🎊자주 쓰는 폴더🎊/00. Daily/25-12-20/연수자소서_검토/4. request",
+    "99/사진/Pasted image 20240122213326.png",
+    "99/사진/Pasted image 20240116232655.png",
+    "99. 사용 빈도 낮은 폴더/College/TOEIC/RC/사진/Pasted image 20240122213326.png",
+    "99. 사용 빈도 낮은 폴더/College/TOEIC/RC/사진/Pasted image 20240116232655.png",
+    "99. 사용 빈도 낮은 폴더/College/캡스톤1/캡스톤 그림/Pasted image 20240402090506.png",
+    "99. 사용 빈도 낮은 폴더/College/캡스톤1/캡스톤 그림/Pasted image 20240314094712.png",
+    "5. 🌈 ​To Do List/스크린샷/Pasted image 20240616002547.png",
+    "5. 🌈 ​To Do List/스크린샷/Pasted image 20240416093640.png",
+    "5. 🌈 ​To Do List/스크린샷/Pasted image 20240416092934.png",
+    "5. 🌈 ​To Do List/스크린샷/Pasted image 20240415160333.png",
+    "99. 사용 빈도 낮은 폴더/College/TOEIC/복습용/1.품사/1)품사.canvas",
+    "99. 사용 빈도 낮은 폴더/College/TOEIC/복습용/1.품사/3)명사.canvas",
+    "99. 사용 빈도 낮은 폴더/College/TOEIC/복습용/1.품사/2)문장.canvas"
   ]
 }
