@@ -4,20 +4,20 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "YY.M.D",
-    "template": "Template/daily Temp.md",
-    "folder": "1. 🎊자주 쓰는 폴더🎊/01. 🌈 ​To Do List/1. Daily To Do List/2025년",
+    "template": "",
+    "folder": "",
     "enabled": true
   },
   "weekly": {
     "format": "YY[년] WW[주차]",
-    "template": "Template/week temp.md",
-    "folder": "1. 🎊자주 쓰는 폴더🎊/01. 🌈 ​To Do List/2. Weekly To Do list",
+    "template": "",
+    "folder": "",
     "enabled": true
   },
   "monthly": {
     "format": "YY[년] M[월]",
-    "template": "Template/month temp.md",
-    "folder": "1. 🎊자주 쓰는 폴더🎊/01. 🌈 ​To Do List/3. Montly Goal",
+    "template": "",
+    "folder": "",
     "enabled": true
   },
   "quarterly": {
@@ -27,9 +27,9 @@
     "enabled": false
   },
   "yearly": {
-    "format": "-YYYY년 만25세-",
+    "format": "",
     "template": "",
-    "folder": "1. 🎊자주 쓰는 폴더🎊/01. 🌈 ​To Do List/4. Yearly Goal",
+    "folder": "",
     "enabled": true
   }
 }
