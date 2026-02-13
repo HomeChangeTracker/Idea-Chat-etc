@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-record/2026-02-09.md",
+                "file": "Daily-record/취업특강/2026-02-13_취특.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-09"
-            }
-          },
-          {
-            "id": "591c7d8b9168ede4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-record/2026-02-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-13"
+              "title": "2026-02-13_취특"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-record/2026-02-04.md",
+                "file": "Daily-record/취업특강/2026-02-13_취특.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-04 의 개요"
+              "title": "2026-02-13_취특 의 개요"
             }
           },
           {
@@ -234,16 +219,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "591c7d8b9168ede4",
+  "active": "bc20518be0be0dbe",
   "lastOpenFiles": [
-    "Daily-record/2026-02-09.md",
+    "Daily-record/2026-02-13_취특.md",
     "Daily-record/2026-02-11.md",
-    "Daily-record/2026-02-13.md",
-    "Daily-record/2026-02-06.md",
+    "Daily-record/2026-02-09.md",
+    "img/Pasted image 20260213165356.png",
+    "Daily-record/2026-02-06_취특.md",
+    "Daily-record/취업특강/2026-02-13_취특.md",
+    "Daily-record/취업특강/2026-02-06_취특.md",
+    "Daily-record/취업특강",
+    "img/Pasted image 20260213165737.png",
     "Daily-record/2026-02-04.md",
+    "img/Pasted image 20260213155924.png",
+    "img/Pasted image 20260213163931.png",
+    "img/Pasted image 20260213162101.png",
+    "img/Pasted image 20260213155937.png",
+    "img/Pasted image 20260213155403.png",
+    "img/Pasted image 20260213153711.png",
+    "img/Pasted image 20260213155744.png",
+    "img/Pasted image 20260213155555.png",
+    "img",
     "Daily-record/2026-02-02.md",
     "templete.md",
-    "다방록_ERD_init_0128.png",
     "README.md"
   ]
 }
