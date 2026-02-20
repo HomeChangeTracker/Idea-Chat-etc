@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-record/취업특강/2026-02-13_취특.md",
+                "file": "Daily-record/2026-02-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-13_취특"
+              "title": "2026-02-20"
             }
           }
         ]
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-record/취업특강/2026-02-13_취특.md",
+                "file": "Daily-record/2026-02-13_취특.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -221,13 +221,15 @@
   },
   "active": "bc20518be0be0dbe",
   "lastOpenFiles": [
+    "Daily-record/2026-02-02.md",
+    "Daily-record/2026-02-20.md",
     "Daily-record/2026-02-13_취특.md",
-    "Daily-record/2026-02-11.md",
-    "Daily-record/2026-02-09.md",
-    "img/Pasted image 20260213165356.png",
     "Daily-record/2026-02-06_취특.md",
-    "Daily-record/취업특강/2026-02-13_취특.md",
-    "Daily-record/취업특강/2026-02-06_취특.md",
+    "Daily-record/2026-02-09.md",
+    "Daily-record/취업특강/2026-02-13_취특_only.md",
+    "Daily-record/취업특강/2026-02-06_취특_only.md",
+    "Daily-record/2026-02-11.md",
+    "img/Pasted image 20260213165356.png",
     "Daily-record/취업특강",
     "img/Pasted image 20260213165737.png",
     "Daily-record/2026-02-04.md",
@@ -240,7 +242,6 @@
     "img/Pasted image 20260213155744.png",
     "img/Pasted image 20260213155555.png",
     "img",
-    "Daily-record/2026-02-02.md",
     "templete.md",
     "README.md"
   ]
