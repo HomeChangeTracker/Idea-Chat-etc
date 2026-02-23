@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 423.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,9 +197,9 @@
   },
   "active": "bc20518be0be0dbe",
   "lastOpenFiles": [
-    "Daily-record 👈/2026-02-23.md",
     "Default Link 👈.md",
     "README.md",
+    "Daily-record 👈/2026-02-23.md",
     "img/Pasted image 20260223152626.png",
     "templete.md",
     "Daily-record 👈/2026-02-06.md",
