@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-record/2026-02-20.md",
+                "file": "Daily-record 👈/2026-02-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-20"
+              "title": "2026-02-23"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-record/2026-02-02.md",
+                "file": "Daily-record 👈/2026-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-02-02 의 백링크"
+              "title": "2026-02-23 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-record/2026-02-02.md",
+                "file": "Daily-record 👈/2026-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-02-02 의 나가는 링크"
+              "title": "2026-02-23 의 나가는 링크"
             }
           },
           {
@@ -137,52 +137,18 @@
             }
           },
           {
-            "id": "b96af1ff769f4078",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
-            }
-          },
-          {
             "id": "fc00e1a4898baab9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-record/2026-02-13_취특.md",
+                "file": "Daily-record 👈/2026-02-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-13_취특 의 개요"
-            }
-          },
-          {
-            "id": "e1b05a699f19f101",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
-            "id": "5bdb692db74a0ec2",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
+              "title": "2026-02-23 의 개요"
             }
           },
           {
@@ -194,14 +160,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "853e1f43a1cb1fd8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 423.5,
-    "collapsed": true
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,18 +196,27 @@
   },
   "active": "bc20518be0be0dbe",
   "lastOpenFiles": [
-    "Daily-record/2026-02-02.md",
-    "Daily-record/2026-02-20.md",
-    "Daily-record/2026-02-13_취특.md",
-    "Daily-record/2026-02-06_취특.md",
-    "Daily-record/2026-02-09.md",
-    "Daily-record/취업특강/2026-02-13_취특_only.md",
-    "Daily-record/취업특강/2026-02-06_취특_only.md",
-    "Daily-record/2026-02-11.md",
+    "Daily-record 👈/2026-02-23.md",
+    "Default Link 👈.md",
+    "README.md",
+    "img/Pasted image 20260223152626.png",
+    "templete.md",
+    "Daily-record 👈/2026-02-06.md",
+    "Daily-record 👈/2026-02-04.md",
+    "Daily-record 👈/2026-02-02.md",
+    "Daily-record 👈/2026-02-13.md",
+    "Daily-record 👈/2026-02-11.md",
+    "Daily-record 👈/2026-02-09.md",
+    "Daily-record 👈/2026-02-20.md",
+    "Daily-record/2026.02.23.md",
+    "26.2.23.md",
+    "2026.02.23.md",
+    "2026-02-23.md",
+    "Daily-record 👈/취업특강/2026-02-13_취특_only.md",
+    "Daily-record 👈/취업특강/2026-02-06_취특_only.md",
     "img/Pasted image 20260213165356.png",
-    "Daily-record/취업특강",
+    "Daily-record 👈/취업특강",
     "img/Pasted image 20260213165737.png",
-    "Daily-record/2026-02-04.md",
     "img/Pasted image 20260213155924.png",
     "img/Pasted image 20260213163931.png",
     "img/Pasted image 20260213162101.png",
@@ -240,9 +224,6 @@
     "img/Pasted image 20260213155403.png",
     "img/Pasted image 20260213153711.png",
     "img/Pasted image 20260213155744.png",
-    "img/Pasted image 20260213155555.png",
-    "img",
-    "templete.md",
-    "README.md"
+    "img"
   ]
 }
