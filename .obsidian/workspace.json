@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Default Link 👈.md",
+                "file": "Daily-record 👈/2026-02-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Default Link 👈"
-            }
-          },
-          {
-            "id": "84a7c5eb32f594cb",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.notion.so/yeonseok-cv/30259d5c0ed0800a87e7c074b0b39354?v=31059d5c0ed08068b3ce000c31dbe69d",
-                "title": "AI+ HCT | 피드 | Notion",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "AI+ HCT | 피드 | Notion"
+              "title": "2026-02-25"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 271.5110321044922
   },
   "right": {
     "id": "2524671b78687467",
@@ -209,15 +194,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "84a7c5eb32f594cb",
+  "active": "bc20518be0be0dbe",
   "lastOpenFiles": [
+    "img/Pasted image 20260213154333.png",
+    "img/Pasted image 20260213153711.png",
+    "img/Pasted image 20260213153532.png",
+    "img/Pasted image 20260213150955.png",
+    "codex-agent-kit/README.md",
+    "codex-agent-kit/01-project-profile-survey.md",
     "Default Link 👈.md",
     "Daily-record 👈/2026-02-25.md",
     "codex-agent-kit/02-quick-start-checklist.md",
     "codex-agent-kit/06-skill-ideas-and-scope.md",
     "codex-agent-kit/03-codex-prompt-templates.md",
-    "codex-agent-kit/README.md",
-    "codex-agent-kit/01-project-profile-survey.md",
     "codex-agent-kit/05-agents-override-template.md",
     "codex-agent-kit/07-agents-md-review-checklist.md",
     "codex-agent-kit/04-agents-md-template.md",
@@ -239,7 +228,6 @@
     "Daily-record/2026.02.23.md",
     "26.2.23.md",
     "2026.02.23.md",
-    "2026-02-23.md",
     "img/Pasted image 20260213165356.png",
     "Daily-record 👈/취업특강",
     "img/Pasted image 20260213165737.png",
@@ -247,9 +235,6 @@
     "img/Pasted image 20260213163931.png",
     "img/Pasted image 20260213162101.png",
     "img/Pasted image 20260213155937.png",
-    "img/Pasted image 20260213155403.png",
-    "img/Pasted image 20260213153711.png",
-    "img/Pasted image 20260213155744.png",
     "img"
   ]
 }
