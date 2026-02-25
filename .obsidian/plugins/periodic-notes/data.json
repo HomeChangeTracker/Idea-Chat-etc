@@ -5,7 +5,7 @@
   "daily": {
     "format": "YYYY-MM-DD",
     "template": "",
-    "folder": "Daily-record",
+    "folder": "Daily-record 👈",
     "enabled": true
   },
   "weekly": {
